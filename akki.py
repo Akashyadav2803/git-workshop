@@ -1,1 +1,7 @@
-my name is akash
+def hello():
+
+"""
+This is demo
+"""
+return "Hello my name is akash"
+hello()
