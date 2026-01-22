@@ -1,7 +1,11 @@
+"""
+akki.py
+
+This module demonstrates a simple hello function.
+"""
+
 def hello():
-    """
-    This is demo
-    """
+    """Return a greeting message."""
     return "Hello my name is akash"
 
 
